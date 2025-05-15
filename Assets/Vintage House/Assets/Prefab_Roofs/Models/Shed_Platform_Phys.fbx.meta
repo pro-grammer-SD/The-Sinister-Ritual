@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: 8169e78abb2ccdd4d9bedbbc217218aa
+timeCreated: 1501936685
+licenseType: Store
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Plane.008
+    100002: Shed_A
+    100004: Shed_B
+    100006: Shed_Door_Main
+    100008: Shed_Door_Main_LOD1
+    100010: Shed_Main
+    100012: Shed_Main_LOD1
+    100014: Shed_Main_Phys
+    100016: Shed_Platform
+    100018: Shed_Platform_LOD1
+    100020: //RootNode
+    100022: Shed_Platform_Phys
+    100024: Shed_SideDoor_L
+    100026: Shed_SideDoor_L_LOD1
+    100028: Shed_SideDoor_R
+    100030: Shed_SideDoor_R_LOD1
+    400000: Plane.008
+    400002: Shed_A
+    400004: Shed_B
+    400006: Shed_Door_Main
+    400008: Shed_Door_Main_LOD1
+    400010: Shed_Main
+    400012: Shed_Main_LOD1
+    400014: Shed_Main_Phys
+    400016: Shed_Platform
+    400018: Shed_Platform_LOD1
+    400020: //RootNode
+    400022: Shed_Platform_Phys
+    400024: Shed_SideDoor_L
+    400026: Shed_SideDoor_L_LOD1
+    400028: Shed_SideDoor_R
+    400030: Shed_SideDoor_R_LOD1
+    2300000: Plane.008
+    2300002: Shed_A
+    2300004: Shed_B
+    2300006: Shed_Door_Main
+    2300008: Shed_Door_Main_LOD1
+    2300010: Shed_Main
+    2300012: Shed_Main_LOD1
+    2300014: Shed_Main_Phys
+    2300016: Shed_Platform
+    2300018: Shed_Platform_LOD1
+    2300020: Shed_Platform_Phys
+    2300022: Shed_SideDoor_L
+    2300024: Shed_SideDoor_L_LOD1
+    2300026: Shed_SideDoor_R
+    2300028: Shed_SideDoor_R_LOD1
+    2300030: //RootNode
+    3300000: Plane.008
+    3300002: Shed_A
+    3300004: Shed_B
+    3300006: Shed_Door_Main
+    3300008: Shed_Door_Main_LOD1
+    3300010: Shed_Main
+    3300012: Shed_Main_LOD1
+    3300014: Shed_Main_Phys
+    3300016: Shed_Platform
+    3300018: Shed_Platform_LOD1
+    3300020: Shed_Platform_Phys
+    3300022: Shed_SideDoor_L
+    3300024: Shed_SideDoor_L_LOD1
+    3300026: Shed_SideDoor_R
+    3300028: Shed_SideDoor_R_LOD1
+    3300030: //RootNode
+    4300000: Shed_Platform_Phys
+    4300002: Shed_Main_Phys
+    4300004: Shed_Main_LOD1
+    4300006: Shed_SideDoor_R_LOD1
+    4300008: Shed_SideDoor_L_LOD1
+    4300010: Shed_Door_Main_LOD1
+    4300012: Shed_Platform_LOD1
+    4300014: Shed_Platform
+    4300016: Shed_Main
+    4300018: Shed_Door_Main
+    4300020: Shed_SideDoor_L
+    4300022: Shed_SideDoor_R
+    4300024: Plane.008
+    4300026: Shed_A
+    4300028: Shed_B
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
