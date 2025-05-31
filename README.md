@@ -21,7 +21,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
- <a href="[https://github.com/othneildrew/Best-README-Template](https://github.com/Sagniksynk/The-Sinister-Ritual.git)">
+ <a href="[Assets/Image Sequence_001_0010.jpg)">
     <img src="Logo/Logo.jpg" alt="Logo" width="180" height="180">
   </a>
 
