@@ -116,16 +116,11 @@ User Interface:
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [Sagnik Dasgupta](https://twitter.com/your_username) - email@example.com
+Your Name - [Sagnik Dasgupta] - sagnikdasgupta09062k@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+Project Link: [Google Drive]((https://drive.google.com/drive/folders/1U0juNJBeRMD2M-Y_H17_AFFdqYrG6zx8?usp=sharing))
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
