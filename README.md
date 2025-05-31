@@ -70,17 +70,25 @@
     <img src="Assets/Image Sequence_001_0010.jpg" alt="Logo" width="1000" height="500">
   </a>
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+A FPP horror puzzle game where players must burn dolls in a specific sequence to unlock doors. This project features an interactive object manipulation system with physics-based pickup mechanics and a sequence-based puzzle challenge.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+Core Gameplay:
+* Object Pickup System: Pick up and drop objects using mouse controls
+* Object Rotation: Rotate grabbed objects with right-click and mouse movement
+* Realistic object physics with gravity and collision detection
+* Sequence Puzzle: Burn dolls in a specific order to solve puzzles
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+Interactive Elements:
+* Fire Zone: Designated areas where objects can be burned
+* Doll Identification: Each doll has a unique number displayed when grabbed
+* Door Unlocking: Completing puzzles opens locked doors
+* Game Over System: Incorrect sequences trigger game over conditions
 
-Use the `BLANK_README.md` to get started.
-
+User Interface:
+* Real-time Feedback: Display current doll number in bottom-right corner
+* Progress Tracking: Visual feedback showing the burned doll sequence
+* Game Over Screen: Restart functionality for failed attempts
+* Status Messages: Clear communication of puzzle progress
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
