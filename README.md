@@ -21,7 +21,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
- <a href="[Assets/Image Sequence_001_0010.jpg)">
+ <a href="[https://github.com/Sagniksynk/The-Sinister-Ritual)">
     <img src="Logo/Logo.jpg" alt="Logo" width="180" height="180">
   </a>
 
