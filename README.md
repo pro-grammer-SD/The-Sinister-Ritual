@@ -118,7 +118,7 @@ User Interface:
 
 Your Name - [Sagnik Dasgupta] - sagnikdasgupta09062k@gmail.com
 
-Project Link: [Google Drive]((https://drive.google.com/drive/folders/1U0juNJBeRMD2M-Y_H17_AFFdqYrG6zx8?usp=sharing))
+Project Link: [Google Drive](https://drive.google.com/drive/folders/1U0juNJBeRMD2M-Y_H17_AFFdqYrG6zx8?usp=sharing)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
