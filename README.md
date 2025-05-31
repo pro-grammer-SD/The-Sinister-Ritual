@@ -25,10 +25,10 @@
     <img src="Logo/Logo.jpg" alt="Logo" width="180" height="180">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">THE SINISTER RITUAL</h3>
 
   <p align="center">
-    THE SINISTER RITUAL
+    FPP Horror
     <br />
     <br />
 </div>
