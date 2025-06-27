@@ -86,7 +86,7 @@ User Interface:
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [Sagnik Dasgupta] - sagnikdasgupta09062k@gmail.com
+[Sagnik Dasgupta] - sagnikdasgupta09062k@gmail.com
 
 Project Link: [Google Drive](https://drive.google.com/drive/folders/1U0juNJBeRMD2M-Y_H17_AFFdqYrG6zx8?usp=sharing)
 
