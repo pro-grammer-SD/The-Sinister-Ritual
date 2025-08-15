@@ -8,8 +8,6 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -21,74 +19,65 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
- <a href= "https://github.com/Sagniksynk/The-Sinister-Ritual.git">
-    <img src="Logo/Logo.jpg" alt="Logo" width="180" height="180">
-  </a>
+  <img src="https://media.githubusercontent.com/media/pro-grammer-SD/The-Sinister-Ritual/refs/heads/main/Logo/Logo.jpg" alt="Logo" width="180" height="180">
 
-  <h3 align="center">THE SINISTER RITUAL</h3>
+  <h3 align="center">🕯️ THE SINISTER RITUAL</h3>
 
   <p align="center">
-    FPP Horror
+    🥶 FPP Horror
     <br />
     <br />
 </div>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## 💁 About The Project
 
- <a href="[Assets/Image Sequence_001_0010.jpg)">
-    <img src="Assets/Image Sequence_001_0010.jpg" alt="Logo" width="1000" height="500">
-  </a>
+<img src="https://media.githubusercontent.com/media/pro-grammer-SD/The-Sinister-Ritual/refs/heads/main/Assets/Image Sequence_001_0010.jpg" alt="Logo" width="1000" height="500">
 
-A FPP horror puzzle game where players must burn dolls in a specific sequence to unlock doors. This project features an interactive object manipulation system with physics-based pickup mechanics and a sequence-based puzzle challenge.
+### 🧩 A FPP horror puzzle game where players must burn dolls in a specific sequence to unlock doors. This project features an interactive object manipulation system with physics-based pickup mechanics and a sequence-based puzzle challenge.
 
-Core Gameplay:
-* Object Pickup System: Pick up and drop objects using mouse controls
-* Object Rotation: Rotate grabbed objects with right-click and mouse movement
-* Realistic object physics with gravity and collision detection
-* Sequence Puzzle: Burn dolls in a specific order to solve puzzles
+- #### 🎮 Core Gameplay:
+  * Object Pickup System: Pick up and drop objects using mouse controls.
+  * Object Rotation: Rotate grabbed objects with right-click and mouse movement.
+  * Realistic object physics with gravity and collision detection.
+  * Sequence Puzzle: Burn dolls in a specific order to solve puzzles.
 
-Interactive Elements:
-* Fire Zone: Designated areas where objects can be burned
-* Doll Identification: Each doll has a unique number displayed when grabbed
-* Door Unlocking: Completing puzzles opens locked doors
-* Game Over System: Incorrect sequences trigger game over conditions
+- #### ⚛️ Interactive Elements:
+  * Fire Zone: Designated areas where objects can be burned.
+  * Doll Identification: Each doll has a unique number displayed when grabbed.
+  * Door Unlocking: Completing puzzles opens locked doors.
+  * Game Over System: Incorrect sequences trigger game over conditions.
 
-User Interface:
-* Real-time Feedback: Display current doll number in bottom-right corner
-* Progress Tracking: Visual feedback showing the burned doll sequence
-* Game Over Screen: Restart functionality for failed attempts
-* Status Messages: Clear communication of puzzle progress
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+- #### 🎨 User Interface:
+  * Real-time Feedback: Display current doll number in bottom-right corner.
+  * Progress Tracking: Visual feedback showing the burned doll sequence.
+  * Game Over Screen: Restart functionality for failed attempts.
+  * Status Messages: Clear communication of puzzle progress.
+  <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### ⚙️ Built With
+---
 
-
-### Built With
-
-
-* [![Unity][Unity.com]][Unity-url]
-* [![C#][CSharp.net]][CSharp-url]
-
+[![Unity][Unity.com]][Unity-url] [![C#][CSharp.net]][CSharp-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- GETTING STARTED -->
-## Getting Started
-### Prerequisites
+## 🌟 Getting Started
+### 🛠️ Prerequisites
 
-* Unity 2021.3 LTS or newer
-* TextMeshPro package
-* StarterAssets (for FirstPersonController)
+* 🕹️ Unity 2021.3 LTS or newer
+* 🔤 TextMeshPro package
+* 🧑‍🦱 StarterAssets (for FirstPersonController)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
-## Contact
+## 📲 Contact
 
-[Sagnik Dasgupta] - sagnikdasgupta09062k@gmail.com
+- ### 😎 Sagnik Dasgupta - sagnikdasgupta09062k@gmail.com
 
-Project Link: [Google Drive](https://drive.google.com/drive/folders/1U0juNJBeRMD2M-Y_H17_AFFdqYrG6zx8?usp=sharing)
+## 🔗 Project Link
+- ### [📫 Google Drive](https://drive.google.com/drive/folders/1U0juNJBeRMD2M-Y_H17_AFFdqYrG6zx8?usp=sharing)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
